@@ -58,6 +58,20 @@ int main(){
     //     num/=10;
     //     i++;
     //     printf("the number is armstrong number");
+int main() {
+    // WAP to check whether a given number is a natural number
+    int num;
 
+    printf("Enter the number: ");
+    scanf("%d", &num);
+
+    if (num > 0) {
+        printf("The number is a natural number.\n");
+    } else {
+        printf("The number is not a natural number.\n");
+    }
+
+    return 0;
+}
 
 
