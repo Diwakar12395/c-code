@@ -33,5 +33,31 @@ int main(){
 // Q5 wap 
     return 0;
 }
+int main(){
+    // char ch;
+    // printf("enter the character:");
+    // scanf("%c",&ch);
+    // if (ch == 'a to z' ){
+    //     printf("the character is an lowercase alphabet");
+    // }
+    // else if (ch == 'A to Z'){
+    //     printf("the character is  an upper case alphabet");
+    // }
+    // else {
+    //     printf("the character is not an alphabet");
+    // }
+// find the number is armstrong number or not
+    // int num,remainder,i=0,originalnum;
+    // printf("enter the three digit number:");
+    // scanf("%d",&num);
+    // originalnum=num;
+
+    // while(num!=0){
+    //     remainder= num%10;
+    //     i+= remainder*remainder*remainder;
+    //     num/=10;
+    //     i++;
+    //     printf("the number is armstrong number");
+
 
 
